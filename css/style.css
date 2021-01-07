@@ -154,7 +154,7 @@
  * =================================================================== */
 
 .social {
-  margin: 0 10px;
+  margin: auto;
   padding-top: 1.3em;
   text-align: center;
   color: #fff;
@@ -173,7 +173,7 @@
 
 .social-footer {
     position: block;
-    padding: 15px;
+    padding: 12px;
 }
 
 .social-footer a {
